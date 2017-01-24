@@ -6,6 +6,7 @@ in hacking beets itself or creating plugins for it.
 
 .. toctree::
 
+    dev_setup
     plugins
     api
     media_file
